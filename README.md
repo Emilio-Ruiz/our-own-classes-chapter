@@ -33,6 +33,7 @@ dev.full_name # => "James Baldwin"
 dev.age # => 67
 ```
 
+
 ## Specs
 <details>
   <summary>Click here to see names of each test</summary>
@@ -46,5 +47,7 @@ class_person.rb has an attribute `birthdate`
 class_person.rb has an instance method, 'age', that returns the number of years between the birthdate of the person and today 
 
 class_person.rb has an instance method called, 'full_name', that returns the first and last name of the person combined 
+
+
 
 </details>
